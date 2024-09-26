@@ -4,11 +4,13 @@ Simulator for Collaborative Intrusion Detection System based on Federated Learni
 
 ## Description
 
-Lorem Ipsum
+Coordinated cyber-attacks can affect multiple networks simultaneously, making detection challenging as signs of suspicious activity are distributed across different network domains. Detection becomes even more difficult when individual intrusion detection systems (IDS) monitor only a small part of the Internet. To effectively identify these attacks, sophisticated systems are required for real-time detection, as they often involve traffic from a common source or target the same destination. Collaborative intrusion detection systems (CIDS) are effective in detecting such attacks by gathering and analyzing data from multiple networks, allowing for early detection before significant damage occurs.
 
 ## Setup
 
-This simulator was developed and tested on the Ubuntu operating system. Therefore, we recommend using this operating system for the best results. We also suggest utilizing a package and environment management system. For this simulator, we recommend using Miniconda.
+This simulator was developed and tested on the Ubuntu operating system. Therefore, we recommend using this operating system for the best results. If you want to used other operating system you can used linux based, Mac OS, o Windows Subsystem for Linux (WSL) on Windows OS.  
+
+We also suggest utilizing a package and environment management system. For this simulator, we recommend using Miniconda.
 
 However, if you prefer not to use a package and environment management system, you can skip the "Miniconda installation" and "prepare environment using Miniconda" sections.
 
@@ -83,3 +85,5 @@ After all the setup done, you can open "src" folder for the next instruction.
 ## Development Tool
 
 This simulator is develop using Python programming language with Jupyter Notebook as code editor.
+
+To develop the simulator, a server with specific technical specifications was utilized: a 2.3 GHz 16-Core Intel(R) Xeon(R) CPU E5-2650 v3 processor coupled with 128 GB of RAM.
