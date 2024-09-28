@@ -80,7 +80,17 @@ Run this command to installs all the packages for simmulator needs.
 pip install -r requirements.txt
 ```
 
-After all the setup done, you can open "src" folder for the next instruction.
+### Run Jupyter Notebook
+
+Run this command to open Jupyter Notebook in browser.
+
+```bash
+jupyter notebook
+```
+
+This will display information about the notebook server in your terminal, including the URL for the web application, which is typically `http://localhost:8888` by default.
+
+After all the setup done, you can open "src" folder in github page for the next instruction.
 
 ## Development Tool
 
