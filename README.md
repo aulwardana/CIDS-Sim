@@ -63,7 +63,7 @@ conda create --name cids_env python=3.10
 Then activate the environment
 
 ```bash
-conda activate acm_env
+conda activate cids_env
 ```
 
 After that, install jupyter notebook
