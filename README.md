@@ -80,6 +80,14 @@ Now you need to clone this repositories. Run the command below, make sure that `
 git clone https://github.com/aulwardana/CIDS-Sim.git
 ```
 
+Then open the cloned repositories
+
+```bash
+cd CIDS-Sim
+```
+
+Next, you need to install the requirement for the library.
+
 ### Install Requirements
 
 Run this command to installs all the packages for simmulator needs.
