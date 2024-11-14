@@ -72,6 +72,14 @@ After that, install jupyter notebook
 conda install notebook
 ```
 
+### Clone Repositories
+
+Now you need to clone this repositories. Run the command below, make sure that `git` is already installed.
+
+```bash
+git clone https://github.com/aulwardana/CIDS-Sim.git
+```
+
 ### Install Requirements
 
 Run this command to installs all the packages for simmulator needs.
