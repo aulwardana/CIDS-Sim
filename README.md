@@ -112,4 +112,4 @@ After all the setup done, you can open "src" folder in github page for the next 
 
 This simulator is develop using Python programming language with Jupyter Notebook as code editor.
 
-To develop the simulator, a server with specific technical specifications was utilized: a 2.3 GHz 16-Core Intel(R) Xeon(R) CPU E5-2650 v3 processor coupled with 128 GB of RAM.
+To develop the simulator, a server with specific technical specifications was utilized: a AMD EPYC 7713 64-Core processor coupled with 64 GB of RAM.
