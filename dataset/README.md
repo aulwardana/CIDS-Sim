@@ -4,7 +4,7 @@ The default dataset used in this research is CoAt-Set. The CoAt-Set dataset is a
 
 # Dataset Setup
 
-Please download the dataset [here](https://data.mendeley.com/datasets/28tmfg3rzb/2) and put all the files in the dataset folder. The details of the dataset processing can be seen in this [publication](https://data.mendeley.com/datasets/28tmfg3rzb/2).
+Please download the dataset [here](https://data.mendeley.com/datasets/28tmfg3rzb/2) and put all the files in the dataset folder. The details of the dataset processing can be seen in this [publication](https://www.sciencedirect.com/science/article/pii/S2352340925000861).
 
 # Dataset Alternative
 
